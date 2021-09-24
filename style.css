@@ -27,7 +27,7 @@ body, ul, li, h1, h2, a{
     position: relative;
   }
   .banner img{
-    max-width: 100%;
+    width: 100%;
   }
   nav{
     background: #F4F4F4;
